@@ -13,7 +13,7 @@ without Me blinding Them with My findings, as it could lead to Directed/Biased R
 
 - To Showcase SOME of My Skills. 😎
 
-- For Potential Gigs and "Educational" Knowledge Sharing.
+- For Potential Gigs & **Educational** Knowledge Sharing.
 
 - To Alert The Company's Internal DevSec Team to Up Their Security & Auditing.
 
@@ -21,4 +21,9 @@ without Me blinding Them with My findings, as it could lead to Directed/Biased R
 
 - Because I Can! (Switching to Swahili Language): Ama? 🤷🏽‍♂️
 
+# LET THE LISTING BEGIN!!!!
 
+[1. SAFARICOM](https://github.com/4dbyron/zeroDays_list_4dbyron/blob/main/safaricom_isp.md)
+
+    - Data Bundle Expiry Date Vulnerability. (02/06/2021)
+    
