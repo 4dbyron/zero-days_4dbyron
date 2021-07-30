@@ -23,7 +23,7 @@ without Me blinding Them with My findings, as it could lead to Directed/Biased R
 
 # LET THE LISTING BEGIN!!!!
 
-[1. SAFARICOM](https://github.com/4dbyron/zeroDays_list_4dbyron/blob/main/safaricom_isp.md)
+1. [SAFARICOM](https://github.com/4dbyron/zeroDays_list_4dbyron/blob/main/safaricom_isp.md)
 
     - Data Bundle Expiry Date Vulnerability. (02/06/2021)
     
