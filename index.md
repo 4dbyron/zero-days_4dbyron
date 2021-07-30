@@ -1,4 +1,4 @@
-# zeroDays_list_4dbyron
+# zero-days_4dbyron
 A List Of ZeroDay Vulnerabilities Discovered By Byron Taaka (@4dbyron).
 As they are Mostly/Potentially Still Active and No Yet Patched at the time of Inclusion,
 Only Listing is done, without any finer details of the vulnerability.
