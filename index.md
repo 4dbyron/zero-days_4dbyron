@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# zeroDays_list_4dbyron
+A List Of ZeroDay Vulnerabilities Discovered By Byron Taaka (@4dbyron).
+As they are Mostly/Potentially Still Active and No Yet Patched at the time of Inclusion,
+Only Listing is done, without any finer details of the vulnerability.
+Neither Exploits nor Payloads have been PUBLICLY included in this Repo,
+So as to avoid Possible Abuse and Legal Implications.
 
-You can use the [editor on GitHub](https://github.com/4dbyron/zeroDays_list_4dbyron/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# How Then Is This Repo Useful?
+- They Say Iron Sharpens Iron. Or Something Close to That. 😉
+Listing A ZeroDay Not Only Triggers Ideas of what is Possible,
+But Also Encourages Other Researchers/Pentesters to Look Closely into the Issue,
+without Me blinding Them with My findings, as it could lead to Directed/Biased Research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- To Showcase SOME of My Skills. 😎
 
-### Markdown
+- For Potential Gigs & **Educational** Knowledge Sharing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- To Alert The Company's Internal DevSec Team to Up Their Security & Auditing.
 
-```markdown
-Syntax highlighted code block
+- It Brings Me EXTRA Joy & Satisfaction.
 
-# Header 1
-## Header 2
-### Header 3
+- Because I Can! (Switching to Swahili Language): Ama? 🤷🏽‍♂️
 
-- Bulleted
-- List
+# LET THE LISTING BEGIN!!!!
 
-1. Numbered
-2. List
+[1. SAFARICOM](https://github.com/4dbyron/zeroDays_list_4dbyron/blob/main/safaricom_isp.md)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4dbyron/zeroDays_list_4dbyron/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    - Data Bundle Expiry Date Vulnerability. (02/06/2021)
+    
